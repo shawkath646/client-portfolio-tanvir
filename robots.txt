@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shawkath646.github.io/client-portfolio-tanvir/sitemap.xml
+
+Crawl-delay: 10

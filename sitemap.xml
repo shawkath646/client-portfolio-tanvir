@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <loc>https://shawkath646.github.io/client-portfolio-tanvir/</loc>
+    <lastmod>2025-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    
+    <image:image>
+      <image:loc>https://shawkath646.github.io/client-portfolio-tanvir/images/FB_IMG_1635350278179.jpg</image:loc>
+      <image:title>SM Tanvir Profile Photo</image:title>
+      <image:caption>SM Tanvir - Videographer and Content Creator</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://shawkath646.github.io/client-portfolio-tanvir/images/0Z2A7431.jpg</image:loc>
+      <image:title>SM Tanvir Outdoor Photo</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://shawkath646.github.io/client-portfolio-tanvir/images/FB_IMG_1635350235388.jpg</image:loc>
+      <image:title>SM Tanvir Portrait</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://shawkath646.github.io/client-portfolio-tanvir/images/FB_IMG_1638504037710.jpg</image:loc>
+      <image:title>SM Tanvir Casual Photo</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://shawkath646.github.io/client-portfolio-tanvir/images/FB_IMG_1669899407797.jpg</image:loc>
+      <image:title>SM Tanvir at Event</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://shawkath646.github.io/client-portfolio-tanvir/images/IMG_20220505_130952.jpg</image:loc>
+      <image:title>SM Tanvir Outdoor Activity</image:title>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://shawkath646.github.io/client-portfolio-tanvir/images/FB_IMG_1669899358371.jpg</image:loc>
+      <image:title>IRSCB Science Project</image:title>
+      <image:caption>Science project organized by IRSCB</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://shawkath646.github.io/client-portfolio-tanvir/images/SquarePic_20220802_18074454.jpg</image:loc>
+      <image:title>Birthday Celebration 2022</image:title>
+      <image:caption>Birthday celebration with friends and family</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://shawkath646.github.io/client-portfolio-tanvir/images/LMC_20220912_132023.jpg</image:loc>
+      <image:title>SM Tanvir Hero Background</image:title>
+    </image:image>
+  </url>
+  
+</urlset>
